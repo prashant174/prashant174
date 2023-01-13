@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.JS MongoDB JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://prashant174.github.io/prashant174..github.io/](https://prashant174.github.io/prashant174..github.io/)
+- 👨‍💻 All of my projects are available at [https://prashant174.github.io/](https://prashant174.github.io/)
 
 - 📫 How to reach me **yprashant174@gmail.com**
 

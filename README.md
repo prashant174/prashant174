@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently learning **Node.JS MongoDB JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://prashant174.github.io/](https://prashant174.github.io/)
+- 👨‍💻 Portfolio [https://prashant174.github.io/](https://prashant174.github.io/)
 
 - 📫 How to reach me **yprashant174@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VvIflfqHYQYtCgYeFwW2htxrKWIysb8z/view?usp=share_link](https://drive.google.com/file/d/1VvIflfqHYQYtCgYeFwW2htxrKWIysb8z/view?usp=share_link)
+- 📄 Resume  [https://drive.google.com/file/d/1VvIflfqHYQYtCgYeFwW2htxrKWIysb8z/view?usp=share_link](https://drive.google.com/file/d/1VvIflfqHYQYtCgYeFwW2htxrKWIysb8z/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

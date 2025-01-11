@@ -10,8 +10,7 @@
 - 👨‍💻 Portfolio [https://prashant174.github.io/](https://prashant174.github.io/)
 
 - 📫 How to reach me **yprashant174@gmail.com**
-- 📄 Resume  [https://drive.google.com/file/d/1VvIflfqHYQYtCgYeFwW2htxrKWIysb8z/view?usp=share_link](https://drive.google.com/file/d/1VvIflfqHYQYtCgYeFwW2htxrKWIysb8z/view?usp=share_link)
-
+- 📄 Resume  https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67821f40565a02c8ebccaf18
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prashant kumar yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant kumar yadav" height="30" width="40" /></a>
